@@ -16,3 +16,5 @@
    <img height="30" width="40" align = "center" alt = "CSS3" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
    <img height="30" width="40" align = "center" alt = "JavaScript" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  </div>
+
+![snake gif](https://github.com/Hytalo-Rodrigues-Moreira-de-Sousa/Hytalo-Rodrigues-Moreira-de-Sousa/blob/output/github-contribution-grid-snake.svg)
