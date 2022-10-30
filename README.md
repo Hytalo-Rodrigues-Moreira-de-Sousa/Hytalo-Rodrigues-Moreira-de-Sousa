@@ -5,6 +5,7 @@
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hytalo-rodrigues-501865230/)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hytalo.rmds.trabalho@gmail.com)
+<a href="https://hytalo-rodrigues-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
 
  <a href="https://github.com/Hytalo-Rodrigues-Moreira-de-Sousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hytalo-Rodrigues-Moreira-de-Sousa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
